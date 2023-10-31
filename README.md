@@ -9,13 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Microsoft Azure Account](https://github.com/AlexisVal08/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AlexisVal08/azure-network-protocols)
-
 <h2>🤳Connect with me:</h2>
-
-
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[Indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 [linkedin]: https://linkedin.com/in/alexis-valencia-m1111
