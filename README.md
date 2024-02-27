@@ -1,7 +1,9 @@
 <h1>Hi, I'm Alexis, an <a href="https://linkedin.com/in/alexis-valencia-m1111">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b> The OSI Model ()</b>
+
+- <b> The OSI Model (Open Systems Interconnection)</b>
+  - [the 7 Layers of the OSI Model](https://github.com/AlexisVal08/The-OSI-Model)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AlexisVal08/ostickets-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/AlexisVal08/post-install-config)
